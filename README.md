@@ -18,7 +18,7 @@ A robust SQL database for future electric vehicle data analysis. Skills applied 
 
 #
 
-img align="left" width="250" height="150" src=GITHUB LINK **An R-Based Analysis of Electric Vehicle Performance Statistics**
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.44.08%20-%20an%20luxury%20electric%20vehicle%20in%20a%20light%20blue%20and%20white%20raceway%2C%2050%20mm%20photograph.png"> **An R-Based Analysis of Electric Vehicle Performance Statistics**
 
 Implemented an in-depth R-based analysis exploring correlation between electric vehicle brands and performance statistics. Conducted hypothesis testing to compare premium brand models and top speeds. Utilized methods to create data distributions and employed statistical analysis for data comprehension.
 
