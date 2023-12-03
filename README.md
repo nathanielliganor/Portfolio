@@ -12,7 +12,7 @@ This dynamic application collects user inputs on specific game attributes along 
 
 #
 
-img align="left" width="250" height="150" src= **SQL Database Design and Management for Future Electric Vehicle Data Analysis**
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.37.55%20-%20a%20macro%2035mm%20photograph%20of%20an%20electric%20vehicle%20in%20San%20Francisco%2C%20it%20is%20parked%20next%20to%20a%20charging%20station%2C%20digital%20art.png"> **SQL Database Design and Management for Future Electric Vehicle Data Analysis**
 
 A robust SQL database for future electric vehicle data analysis. Skills applied include data modeling and normalization for efficient database design and data manipulation for handling EV information. This project enhanced my problem solving abilities in facing data challenges and broadened my understanding of EV diversity.
 
