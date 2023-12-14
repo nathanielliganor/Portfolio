@@ -1,5 +1,5 @@
-# Portfolio
-My name is Nathaniel and this portfolio is a compilation of all my Data Science and Data Analysis projects in my professional journey.
+# Nathaniel Liganor
+Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data Science and Data Analysis projects in my professional journey.
 
 * Email: [nliganor@umich.edu](nliganor@umich.edu)
 * LinkedIn: [www.linkedin.com/in/nliganor](www.linkedin.com/in/nliganor)
