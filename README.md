@@ -6,6 +6,12 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 # Projects
 
+
+
+The project entailed conducting in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
+
+#
+
 <img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.32.21%20-%203D%20render%20of%20a%20small%20white%20video%20game%20controller%20in%20a%20light%20blue%20room.png"> **Python-Based Video Game Recommendation Engine for Mental Health Support**
 
 This dynamic application collects user inputs on specific game attributes along with information on their mental health conditions. By analyzing this data, TheraGame delivers tailored suggestions of video games aimed at providing mental health relief.
