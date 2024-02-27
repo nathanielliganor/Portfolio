@@ -28,6 +28,8 @@ A robust SQL database for future electric vehicle data analysis. Skills applied 
 
 Implemented an in-depth R-based analysis exploring correlation between electric vehicle brands and performance statistics. Conducted hypothesis testing to compare premium brand models and top speeds. Utilized methods to create data distributions and employed statistical analysis for data comprehension.
 
+#
+
 ## Visualization Projects
 
 <img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.44.08%20-%20an%20luxury%20electric%20vehicle%20in%20a%20light%20blue%20and%20white%20raceway%2C%2050%20mm%20photograph.png"> **[American Asylum Visualizations]**
@@ -36,12 +38,12 @@ In enhacning the New York Times articke "Asylum in America, by the Numbers," I u
 
 <br />
 
-## Core Competencies
+# Core Competencies
 
 - **Methodologies**: Data Visualization, Data Wrangling, Database Design, Normalization, Big Data Analytics, Software Development, Algorithms, Hypothesis Testing, AB Testing, Data Collection, Statistical Analysis
 - **Languages**: Python, R (Dplyr, Tidyr, Ggplot2), SQL
 - **Tools**: MySQL, Git, Visual Studio Code, DataGrip, R Studio
 
-## Certificates
+# Certificates
 
 - [Python Basics](https://coursera.org/share/ae9589c023ed5c26fe2978d10058c23c)
