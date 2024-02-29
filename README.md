@@ -42,7 +42,7 @@ In enhacning the New York Times articke "Asylum in America, by the Numbers," I u
 
 - **Methodologies**: Data Visualization, Data Wrangling, Database Design, Normalization, Big Data Analytics, Software Development, Algorithms, Hypothesis Testing, AB Testing, Data Collection, Statistical Analysis
 - **Languages**: Python, R (Dplyr, Tidyr, Ggplot2), SQL
-- **Tools**: MySQL, Git, Visual Studio Code, DataGrip, R Studio
+- **Tools**: MySQL, Git, Visual Studio Code, DataGrip, R Studio, Tableau
 
 # Certificates
 
