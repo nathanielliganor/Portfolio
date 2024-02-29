@@ -32,7 +32,7 @@ Implemented an in-depth R-based analysis exploring correlation between electric 
 
 ## Visualization Projects
 
-<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.44.08%20-%20an%20luxury%20electric%20vehicle%20in%20a%20light%20blue%20and%20white%20raceway%2C%2050%20mm%20photograph.png"> **[American Asylum Visualizations](https://github.com/nathanielliganor/static-viz-project/tree/main)**
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-02-28%2022.50.25%20-%20a%20bar%20graph%20with%20a%20line%20going%20through%20the%20bars%20in%20a%20blue%20and%20white%20color%20palette%2C%20digital%20art.png"> **[American Asylum Visualizations](https://github.com/nathanielliganor/static-viz-project/tree/main)**
 
 In enhacning the New York Times articke "Asylum in America, by the Numbers," I utilized Tableau to create impactful visualizations that provide deeper insight and context. Expanded my Tableau skill set, focusing on data preparation, visual analytics, and storytelling.
 
