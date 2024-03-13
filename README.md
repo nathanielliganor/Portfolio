@@ -8,7 +8,7 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 <img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.32.21%20-%203D%20render%20of%20a%20small%20white%20video%20game%20controller%20in%20a%20light%20blue%20room.png"> **[The Light of Information](https://github.com/nathanielliganor/LEDLightsProject)**
 
-A robust SQL database for future electric vehicle data analysis. Skills applied include data modeling and normalization for efficient database design and data manipulation for handling EV information. This project enhanced my problem solving abilities in facing data challenges and broadened my understanding of EV diversity.
+This Applied Data Science course project develops a modular codebase controlling a 300 multicolor LED light strip. We engineered a flexible data structure and detailed our exploration and findings to create a comprehensive guide for future development.
 
 #
 
