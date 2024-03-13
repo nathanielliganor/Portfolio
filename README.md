@@ -6,7 +6,7 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 # Projects
 
-<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/images/download.png"> **[The Light of Information](https://github.com/nathanielliganor/LEDLightsProject)**
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/static-viz-project/blob/main/images/Screenshot%202024-03-13%20at%202.50.14%20PM.png> **[The Light of Information](https://github.com/nathanielliganor/LEDLightsProject)**
 
 This Applied Data Science course project develops a modular codebase controlling a 300 multicolor LED light strip. We engineered a flexible data structure and detailed our exploration and findings to create a comprehensive guide for future development.
 
