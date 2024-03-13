@@ -6,9 +6,9 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 # Projects
 
-<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-01-23%2016.33.02%20-%20a%20waterfall%20with%20clear%20blue%20water%2C%2050%20mm%20photograph.png"> **[A Contextual Inquiry into Michigan's Aging Water Infrastructure and Proposing Sustainable Solutions](https://github.com/nathanielliganor/contextual-inquiry)**
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202023-12-02%2020.32.21%20-%203D%20render%20of%20a%20small%20white%20video%20game%20controller%20in%20a%20light%20blue%20room.png"> **[The Light of Information]((https://github.com/nathanielliganor/LEDLightsProject))**
 
-The project entailed conducting in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
+The Light of Information is a fun, scalable way to learn more about two key skills every data scientist should have: The ability to work with data structures and perform project management tasks
 
 #
 
@@ -29,6 +29,10 @@ A robust SQL database for future electric vehicle data analysis. Skills applied 
 Implemented an in-depth R-based analysis exploring correlation between electric vehicle brands and performance statistics. Conducted hypothesis testing to compare premium brand models and top speeds. Utilized methods to create data distributions and employed statistical analysis for data comprehension.
 
 #
+
+<img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-01-23%2016.33.02%20-%20a%20waterfall%20with%20clear%20blue%20water%2C%2050%20mm%20photograph.png"> **[A Contextual Inquiry into Michigan's Aging Water Infrastructure and Proposing Sustainable Solutions](https://github.com/nathanielliganor/contextual-inquiry)**
+
+The project entailed conducting in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
 
 ## Visualization Projects
 
