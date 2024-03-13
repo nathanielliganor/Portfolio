@@ -32,13 +32,13 @@ Implemented an in-depth R-based analysis exploring correlation between electric 
 
 <img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-01-23%2016.33.02%20-%20a%20waterfall%20with%20clear%20blue%20water%2C%2050%20mm%20photograph.png"> **[A Contextual Inquiry into Michigan's Aging Water Infrastructure and Proposing Sustainable Solutions](https://github.com/nathanielliganor/contextual-inquiry)**
 
-The project entailed conducting in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
+Conducted in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
 
 ## Visualization Projects
 
 <img align="left" width="150" height="150" src="https://github.com/nathanielliganor/Portfolio/blob/main/DALL%C2%B7E%202024-02-28%2022.50.25%20-%20a%20bar%20graph%20with%20a%20line%20going%20through%20the%20bars%20in%20a%20blue%20and%20white%20color%20palette%2C%20digital%20art.png"> **[American Asylum Tableau Visualizations](https://github.com/nathanielliganor/static-viz-project/tree/main)**
 
-In enhacning the New York Times articke "Asylum in America, by the Numbers," I utilized Tableau to create impactful visualizations that provide deeper insight and context. Expanded my Tableau skill set, focusing on data preparation, visual analytics, and storytelling.
+In enhacning the New York Times article "Asylum in America, by the Numbers," I utilized Tableau to create impactful visualizations that provide deeper insight and context. Expanded my Tableau skill set, focusing on data preparation, visual analytics, and storytelling.
 
 <br />
 
