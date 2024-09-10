@@ -24,12 +24,6 @@ Implemented an in-depth R-based analysis exploring correlation between electric 
 
 #
 
-**[A Contextual Inquiry into Michigan's Aging Water Infrastructure and Proposing Sustainable Solutions](https://github.com/nathanielliganor/contextual-inquiry)**
-
-Conducted in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
-
-#
-
 ## Classification Problems
 
 **[Spaceship Titanic](https://github.com/nathanielliganor/Portfolio/blob/main/Notebooks/Spaceship_Titanic.ipynb)**
@@ -43,6 +37,14 @@ Spaceship Titanic is a knowledge competition on Kaggle. As a part of my machine 
 **[American Asylum Tableau Visualizations](https://github.com/nathanielliganor/static-viz-project/tree/main)**
 
 In enhacning the New York Times article "Asylum in America, by the Numbers," I utilized Tableau to create impactful visualizations that provide deeper insight and context. Expanded my Tableau skill set, focusing on data preparation, visual analytics, and storytelling.
+
+<br />
+
+## Contextual Inquiry Project
+
+**[A Contextual Inquiry into Michigan's Aging Water Infrastructure and Proposing Sustainable Solutions](https://github.com/nathanielliganor/contextual-inquiry)**
+
+Conducted in-depth inquiry-based research, focusing on the significant challenges associated with Michigan's aging water infrastructure, such as public awareness, misinformation, and risk communication. The outcomes included detailed insights into societal consequences, offering robust recommendations like developing comprehensive community education, enhancing proactive communication, and enabling diversified stakeholder collaboration for a sustainable water infrastructure.
 
 <br />
 
