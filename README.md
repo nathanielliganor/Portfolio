@@ -4,6 +4,14 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 * Email: [nliganor@umich.edu](nliganor@umich.edu)
 * LinkedIn: [www.linkedin.com/in/nliganor](www.linkedin.com/in/nliganor)
 
+# Professional Experience
+
+**SEC Filings**
+
+This dynamic application collects user inputs on specific game attributes along with information on their mental health conditions. By analyzing this data, this project delivers tailored suggestions of video games aimed at providing mental health relief.
+
+<br />
+
 # Projects
 
 **[Python-Based Video Game Recommendation Engine](https://github.com/nathanielliganor/Video-Game-Recommendation)**
