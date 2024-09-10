@@ -36,6 +36,14 @@ This Applied Data Science course project develops a modular codebase controlling
 
 #
 
+## Classification Problems
+
+**Spaceship Titanic**
+
+Spaceship Titanic is a knowledge competition on Kaggle. As a part of my machine learning coursework in Data Manipulation course, I applied my machine learning knowledge and entered this competition. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on Kaggle. Titanic dataset provides interesting opportunities for feature engineering.
+
+#
+
 ## Visualization Projects
 
 **[American Asylum Tableau Visualizations](https://github.com/nathanielliganor/static-viz-project/tree/main)**
