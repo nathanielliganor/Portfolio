@@ -18,7 +18,7 @@ A robust SQL database for future electric vehicle data analysis. Skills applied 
 
 #
 
-**[R-Based Analysis of Electric Vehicle Performance Statistics](https://github.com/nathanielliganor/behindthespeed)**
+**[R-Based Analysis of Electric Vehicle Performance Statistics]([https://github.com/nathanielliganor/behindthespeed](https://github.com/nathanielliganor/behindthespeed/blob/master/ProjectAnalysis.pdf))**
 
 Implemented an in-depth R-based analysis exploring correlation between electric vehicle brands and performance statistics. Conducted hypothesis testing to compare premium brand models and top speeds. Utilized methods to create data distributions and employed statistical analysis for data comprehension.
 
