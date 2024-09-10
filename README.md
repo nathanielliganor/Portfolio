@@ -30,15 +30,9 @@ Conducted in-depth inquiry-based research, focusing on the significant challenge
 
 #
 
-**[The Light of Information](https://github.com/nathanielliganor/LEDLightsProject)**
-
-This Applied Data Science course project develops a modular codebase controlling a 300 multicolor LED light strip. We engineered a flexible data structure and detailed our exploration and findings to create a comprehensive guide for future development.
-
-#
-
 ## Classification Problems
 
-**Spaceship Titanic**
+**[Spaceship Titanic](https://github.com/nathanielliganor/Portfolio/blob/main/Notebooks/Spaceship_Titanic.ipynb)**
 
 Spaceship Titanic is a knowledge competition on Kaggle. As a part of my machine learning coursework in Data Manipulation course, I applied my machine learning knowledge and entered this competition. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on Kaggle. Titanic dataset provides interesting opportunities for feature engineering.
 
