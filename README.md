@@ -8,7 +8,7 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 **[Python-Based Video Game Recommendation Engine](https://github.com/nathanielliganor/Video-Game-Recommendation)**
 
-This dynamic application collects user inputs on specific game attributes along with information on their mental health conditions. By analyzing this data, TheraGame delivers tailored suggestions of video games aimed at providing mental health relief.
+This dynamic application collects user inputs on specific game attributes along with information on their mental health conditions. By analyzing this data, this project delivers tailored suggestions of video games aimed at providing mental health relief.
 
 #
 
