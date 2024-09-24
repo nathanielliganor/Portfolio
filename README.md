@@ -6,7 +6,7 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 # Professional Experience
 
-#### **Data Analyst Research Assistant | Arts Engine, University of Michigan**
+### **Data Analyst Research Assistant | _Arts Engine, University of Michigan_**
 
 **[Analyzing the Impact of Engagement on Skill Development Across Art Forms](https://github.com/nathanielliganor/Portfolio/blob/main/Notebooks/Learning_Outcomes.ipynb)**
 
