@@ -6,9 +6,9 @@ Welcome! My name is Nathaniel and this portfolio is a compilation of all my Data
 
 # Professional Experience
 
-## **Data Analyst Research Assistant | Arts Engine, University of Michigan**
+#### **Data Analyst Research Assistant | Arts Engine, University of Michigan**
 
-Analyzing the Impact of Engagement on Skill Development Across Art Forms
+**[Analyzing the Impact of Engagement on Skill Development Across Art Forms](https://github.com/nathanielliganor/Portfolio/blob/main/Notebooks/Learning_Outcomes.ipynb)**
 
 In this project, I analyzed the impact of different engagement types—attendance, participation, and leadership—on skill development across various art forms, such as animation, music composition, and visual arts. Using Tableau, I developed a series of visualizations, including bar charts, pie charts, and heatmaps, to highlight how these engagement types contribute to personal and professional growth. The analysis focuses on identifying the most influential engagement types, visualizing the distribution of significance levels, and determining which skills are most affected across different art forms. This project provides valuable insights into optimizing student engagement for maximum skill development.
 
