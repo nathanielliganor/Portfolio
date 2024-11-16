@@ -16,7 +16,7 @@ In this project, I analyzed the impact of different engagement types—attendanc
 
 ### **Data Science/Software Development Intern | _CFN Enterprises Inc._**
 
-**SEC Filing Email Alerts**
+**[SEC Filing Email Alerts](https://github.com/nathanielliganor/Portfolio/blob/main/Notebooks/SEC_EmailAlerts.ipynb)**
 
 Developed an automated email alerts system within a Ruby on Rails application to notify users of new SEC filings for companies they follow. The project integrates the SEC API to retrieve real-time filing data, categorizing important forms like 10-Q, 10-K, and 8-K. Users receive personalized alerts via Mailgun, with filings being processed and managed in PostgreSQL to ensure timely and relevant notifications. This system enhances user engagement by providing critical updates directly to their inboxes.
 
